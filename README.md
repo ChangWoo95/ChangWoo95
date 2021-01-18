@@ -1,11 +1,11 @@
-## 👨 🎓 Education
+## 👨‍🎓 Education
 - 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2021-02)  
 Computer & Information Engineering, Kwangwoon University
 
 - 삼성 청년 SW 아카데미[SSAFY] (2021-01~)
 <br>
 
-## 👨 💻 Github Stats
+## 👨‍💻 Github Stats
 <a href="https://github.com/ChangWoo95">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChangWoo95&show_icons=true&line_height=27&theme=solarized-dark" />
 </a>

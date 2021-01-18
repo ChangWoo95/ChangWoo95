@@ -10,7 +10,7 @@ Computer & Information Engineering, Kwangwoon University
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChangWoo95&show_icons=true&line_height=27&theme=solarized-dark" />
 </a>
 <a href="https://github.com/ChangWoo95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWoo95&theme=solarized-dark&exclude_repo=ChangWoo95.github.io&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWoo95&theme=solarized-dark&exclude_repo=changwoo95.github.io&langs_count=3" />
 </a>
 <!--
 **ChangWoo95/ChangWoo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

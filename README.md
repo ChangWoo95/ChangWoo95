@@ -15,7 +15,6 @@ Computer & Information Engineering, Kwangwoon University
 
 <!--
 **ChangWoo95/ChangWoo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Solved ac
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qaqa313a)](https://solved.ac/qaqa313a)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qaqa313a)](https://solved.ac/qaqa313a)

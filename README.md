@@ -12,7 +12,6 @@ Computer & Information Engineering, Kwangwoon University
 <a href="https://github.com/ChangWoo95">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWoo95&theme=solarized-dark&exclude_repo=ChangWoo95.github.io&langs_count=3" />
 </a>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qaqa313a)](https://solved.ac/qaqa313a)
 
 <!--
 **ChangWoo95/ChangWoo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qaqa313a)](https://solved.ac/qaqa313a)

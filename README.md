@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qaqa313a)](https://solved.ac/qaqa313a)
+## Solved ac
+<a href="https://github.com/ChangWoo95">
+  <img align="center" src="https://github-readme-solvedac.qaqa313a.vercel.app/api/?handle=hyperflow)" />
+</a>

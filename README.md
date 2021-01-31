@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Solved ac
-![qaqa313a's solved.ac stats](https://github-readme-solvedac.qaqa313a.vercel.app/api/?handle=hyperflow)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.qaqa313a.vercel.app/api/?handle=hyperflow)

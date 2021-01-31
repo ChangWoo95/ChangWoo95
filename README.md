@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Solved ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qaqa313a)](https://solved.ac/qaqa313a)
+![hyp3rflow solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qaqa313a)

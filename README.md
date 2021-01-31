@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Solved ac
-<a href="https://github.com/ChangWoo95">
-  <img align="center" src="https://github-readme-solvedac.qaqa313a.vercel.app/api/?handle=hyperflow)" />
-</a>
+![qaqa313a's solved.ac stats](https://github-readme-solvedac.qaqa313a.vercel.app/api/?handle=hyperflow)

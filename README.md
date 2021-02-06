@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 ## Solved ac
 
-![qaqa313a solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qaqa313a)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qaqa313a)

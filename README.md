@@ -5,6 +5,11 @@ Computer & Information Engineering, Kwangwoon University
 - 삼성 청년 SW 아카데미[SSAFY] (2021-01~)
 <br>
 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<br>
 ## 👨‍💻 Github Stats
 <a href="https://github.com/ChangWoo95">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChangWoo95&show_icons=true&line_height=27&theme=solarized-dark" />

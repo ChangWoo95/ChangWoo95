@@ -16,7 +16,8 @@ Computer & Information Engineering, Kwangwoon University
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/vue-2.2.4-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+
 <br>
 ## 👨‍💻 Github Stats
 <a href="https://github.com/ChangWoo95">

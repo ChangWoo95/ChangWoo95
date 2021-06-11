@@ -2,7 +2,9 @@
 - 광운대학교 컴퓨터정보공학부 정보공학전공 (2015-03 ~ 2021-02)  
 Computer & Information Engineering, Kwangwoon University
 
-- 삼성 청년 SW 아카데미[SSAFY] (2021-01~)
+- 삼성 청년 SW 아카데미[SSAFY] (2021-01 ~ 2021-04)
+
+- 코오롱베니트 채용형 인턴 (2021-04 ~ 2021-06) 
 <br>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
@@ -14,6 +16,7 @@ Computer & Information Engineering, Kwangwoon University
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/vue-2.2.4-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
 <br>
 ## 👨‍💻 Github Stats
 <a href="https://github.com/ChangWoo95">

@@ -7,9 +7,7 @@ Computer & Information Engineering, Kwangwoon University
 - Kolonbenit System Engineer (2021-07 ~ ) 
 <br>
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <br>

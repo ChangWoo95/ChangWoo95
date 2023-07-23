@@ -4,7 +4,9 @@ Computer & Information Engineering, Kwangwoon University
 
 - 삼성 청년 SW 아카데미[SSAFY] (2021-01 ~ 2021-04)
 
-- Kolonbenit System Engineer (2021-07 ~ ) 
+- Kolonbenit System Engineer (2021-07 ~ 2023-07)
+
+- Koscom (2023-07 ~ ) 
 <br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/></a>
